@@ -1,4 +1,9 @@
-## Hi there 👋
+## MEU PERFIL
+Meu nome é Diogo Ferreira
+Estou estudando na Alura
+Estou me desenvolvendo em informática básica
+VOCÊ pode entrar em contato comigo
+00001113549208sp@al.educacao.sp.gov.br
 
 <!--
 **D10G0FP/D10G0FP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
