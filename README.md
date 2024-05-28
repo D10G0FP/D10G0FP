@@ -1,6 +1,6 @@
 ## MEU PERFIL
 Meu nome é Diogo Ferreira
-Estou estudando na Alura
+Estou estudando na escola E.E Rogério Lázaro Tochetton
 Estou me desenvolvendo em informática básica
 VOCÊ pode entrar em contato comigo
 00001113549208sp@al.educacao.sp.gov.br
